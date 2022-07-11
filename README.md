@@ -1,0 +1,2 @@
+# StudyDjangoProject
+coming soon
